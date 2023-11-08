@@ -12,6 +12,7 @@ struct ChatGroup: View {
         ZStack {
             Image("ChatGroup")
                 .resizable()
+            // testing github
         } .ignoresSafeArea()
     }
 }
